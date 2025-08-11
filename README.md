@@ -3,6 +3,7 @@ F Dock is a static dock that goes at the top of a 350mm Voron 2.4 for use with M
 
 Use two M5 bolts to mount to the top extrusion. Insert 4 N52 magnets into the back, somewhat inset them to make them flush to the bottom of the keyhole. Feel free to adjust the step and modify it to fit your build.
 Here are the nozzle scrubbers this is intended for.  [Nozzle Scrubbers](https://a.co/d/dKHXIwk)
+If you're just doing two tools just mirror the dock for the other side. 
 
 
 08/11/25 - Updated F Dock to have space for heatsets. Only one needed for 4 tool solution. Always use the one farther away from tools for 4 tool bottom bar. Updated Single Bar to have two heatsets to prevent rotations. 
