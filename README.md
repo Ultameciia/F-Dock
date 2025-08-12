@@ -1,10 +1,12 @@
 # F-Dock
-F Dock is a static dock that goes at the top of a 350mm Voron 2.4 for use with MadMax
+F Dock is a static dock that goes at the top of a Voron 2.4 or Voron Trident for use with the MadMax Toolchanger Solution
 
 Use two M5 bolts to mount to the top extrusion. Insert 4 N52 magnets into the back, somewhat inset them to make them flush to the bottom of the keyhole. Feel free to adjust the step and modify it to fit your build.
 Here are the nozzle scrubbers this is intended for.  [Nozzle Scrubbers](https://a.co/d/dKHXIwk)
 If you're just doing two tools just mirror the dock for the other side. 
 
+
+08/12/25 - Added Trident Dock, nozzle park will be coming soon. Trident dock is not currently tested heavily, use at your own risk. 
 
 08/11/25 - Updated F Dock to have space for heatsets. Only one needed for 4 tool solution. Always use the one farther away from tools for 4 tool bottom bar. Updated Single Bar to have two heatsets to prevent rotations. 
 
