@@ -12,3 +12,4 @@ If you're just doing two tools just mirror the dock for the other side.
 
 
 08/11/25 - Added my nozzle park solution along with a single nozzle park solution. F Docks themselves now have a spot on the bottom for an M3 Heatset insert. The bottom bar attaches here. There are a few different nozzle park arms from 0mm to 5mm. Pick what you need for your build, or edit to fit. Each arm gets 2 M3 heatsets and you use two m3 screws with washers to attach to the dock. 
+![Photo Aug 5 2025](https://github.com/user-attachments/assets/f6eb9505-2606-4a5c-8c4a-f7487d3f3f27)
